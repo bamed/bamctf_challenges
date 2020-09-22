@@ -1,0 +1,9 @@
+Hello friendly librarian,
+
+Can you help me find my flag? I have a look up number but it looks like a bunch of babel. I also seemed to have misplaced it in this darn picture. Also Im not a fan of web stuff, can you show me in a terminal?
+
+Note: Spaces will be replaced with underscores when inputting the flag.
+
+Format: FLAG{example flag} -> FLAG{example_flag}  
+
+
